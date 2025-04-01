@@ -1,5 +1,5 @@
-# College_Management_System_Using_PHP
-# College Management System (Simple)
+# College_Management_System_Using_PHP (Simple)
+
 
 This is a very basic College Management System built with PHP and MySQL. It provides simple functionalities for managing students, faculty, and administrators.
 
